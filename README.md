@@ -17,7 +17,7 @@ I joined the company to build its BI area with Power BI, and this was the first 
 | **Conjuntos** (Bundles) | How many households have TV only, internet only or both, with which technology (FTTH, DOCSIS, aerial, cable, Aurora+, MMDS, UHF), and what share of the base does each combination represent? | Management |
 | **Totales** (Trends) | How is each technology growing or shrinking month by month? Are there seasonal patterns? What share of customers remains on legacy technologies? | Management, technical |
 | **Hogares** (Households) | Where are customers located, what is their age range and what is our market share by operating center? | Marketing, technical |
-| **Productos** (Products)] | How many contracts do we have depending on the location, which tecnology | Management, technical |
+| **Productos** (Products) | How many contracts do we have depending on the location, which tecnology | Management, technical |
 | **Morosidad** (Delinquency) | Which customers are most overdue, and which zones concentrate delinquency? | Post-sales |
 | **Altas** (Activations) | How do activation orders convert into real activations, new customers vs. reconnections? Did campaigns and new sales areas have an impact? | Sales, marketing |
 | **Bajas** (Churn) | How many customers do we lose, why, and is it voluntary or due to non-payment? | Management, post-sales |
